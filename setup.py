@@ -19,7 +19,6 @@ setup(
             'django-celery>=3.0.11',
         ],
         'przelewy24': [
-            'django-celery>=3.0.11',
             'pytz',
         ],
         'moip': [
