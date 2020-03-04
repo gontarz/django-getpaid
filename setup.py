@@ -20,6 +20,7 @@ setup(
         ],
         'przelewy24': [
             'pytz',
+            'six',
         ],
         'moip': [
             'requests',
